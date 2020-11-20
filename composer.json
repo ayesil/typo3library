@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ayesil\\Typo3library\\": "src/"
+            "ayesil\\TYPO3Library\\": "src/"
         }
     }
 }
