@@ -2,7 +2,7 @@
     "name": "ayesil/typo3library",
     "description": "",
     "homepage": "https://ayesil.com",
-	  "license": ["LGPL-3.0-or-later"],
+    "license": ["LGPL-3.0-or-later"],
     "keywords": ["typo3library"],
     "require": {
     },
